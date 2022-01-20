@@ -66,5 +66,7 @@
             xmlUrl="https://submirror.xyz/chainhouse.eth" htmlUrl="https://mirror.xyz/chainhouse.eth"/>
       <outline text="BTCdayu — Mirror" title="BTCdayu — Mirror" type="rss" 
             xmlUrl="https://submirror.xyz/btcdayu.eth" htmlUrl="https://mirror.xyz/btcdayu.eth"/>
+      <outline text="屎币日报 — Mirror" title="屎币日报 — Mirror" type="rss" 
+            xmlUrl="https://mirror.xyz/shitcoindaily.eth" htmlUrl="https://mirror.xyz/shitcoindaily.eth"/>
 </body>
 </opml>
